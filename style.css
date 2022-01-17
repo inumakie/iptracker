@@ -32,7 +32,7 @@ body {
 
 /* top box */
 .top-box {
-    background: red;
+    background: background: url("./images/pattern-bg.png");
     height: 200px;
 
     display: flex;
