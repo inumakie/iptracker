@@ -77,7 +77,7 @@ form {
 
     height: 45px;
     width: 50px;
-    background: black url("/images/icon-arrow.svg") no-repeat center;
+    background: black url("./images/icon-arrow.svg") no-repeat center;
 
     border: none;
     border-radius: 0px 10px 10px 0px;
@@ -85,7 +85,7 @@ form {
 
 .top-box #button:hover {
     cursor: pointer;
-    background: var(--very-dark-gray) url("/images/icon-arrow.svg") no-repeat center;
+    background: var(--very-dark-gray) url("./images/icon-arrow.svg") no-repeat center;
 }
 
 /* info box */
